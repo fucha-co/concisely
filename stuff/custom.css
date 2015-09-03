@@ -1,5 +1,5 @@
 body {
-  color: #f9f9f9;
+  color: #111;
   font-size: 18px;
   text-align: left;
   text-shadow: none;
@@ -8,7 +8,7 @@ body {
 }
 html, body {
   height: 100%;
-  background-color: #111;
+  background-color: #fff;
 }
 
 .site-wrapper {
@@ -31,22 +31,22 @@ html, body {
 }
 
 h1 {
-      box-sizing: border-box;
-      color: #FFF;
-      display: block;
-      font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      font-size: 37px;
-      font-weight: bold;
-      height: auto;
-      letter-spacing: -1px;
-      line-height: 48px;
-      margin-bottom: 0px;
-      width: auto;
-  }
+    box-sizing: border-box;
+    color: #111;
+    display: block;
+    font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 37px;
+    font-weight: bold;
+    height: auto;
+    letter-spacing: -1px;
+    line-height: 48px;
+    margin-bottom: 0px;
+    width: auto;
+}
 
 h2 {
     box-sizing: border-box;
-    color: #FFF;
+    color: #111;
     display: block;
     font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 24px;
