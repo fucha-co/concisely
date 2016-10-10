@@ -2,23 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Rewriting PS</title>
-    <link>https://concisely.co/page/</link>
+    <link>https://concisely.co/ps/page/</link>
     <description>Recent content in Pages on Rewriting PS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <atom:link href="https://concisely.co/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://concisely.co/ps/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contents</title>
+      <link>https://concisely.co/ps/index</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://concisely.co/ps/index</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://concisely.co/ps/ps/intro/&#34;&gt;Hi PS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://concisely.co/ps/ps/about-me/&#34;&gt;I&amp;rsquo;m Lane&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://concisely.co/ps/ps/i-write/&#34;&gt;I Write&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://concisely.co/ps/ps/i-more-than-write/&#34;&gt;I &amp;gt; Write&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://concisely.co/ps/ps/i-run/&#34;&gt;I Run Too&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://concisely.co/ps/ps/rewriting-ps/&#34;&gt;Rewriting PS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://concisely.co/ps/ps/blurbsmith/&#34;&gt;BLURBSMITH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://concisely.co/ps/ps/concisely/&#34;&gt;CONCISELY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://concisely.co/ps/ps/phaces/&#34;&gt;PHACES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://concisely.co/ps/ps/contact-me/&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://concisely.co/intro</link>
+      <link>https://concisely.co/ps/intro</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://concisely.co/intro</guid>
+      <guid>https://concisely.co/ps/intro</guid>
       <description>&lt;p&gt;Hi PS.
 &lt;br&gt;&lt;br&gt;
-&lt;strong&gt;My name&amp;rsquo;s Lane and I really want to write for you!&lt;/strong&gt; (And I don&amp;rsquo;t use adverbs and exclamation marks lightly.)
+&lt;strong&gt;I&amp;rsquo;m Lane and I really want to write for you!&lt;/strong&gt; (And I don&amp;rsquo;t use adverbs lightly. Or exclamation marks for that matter.)
 &lt;br&gt;&lt;br&gt;
-I spied your content writer role on SEEK on Saturday and whipped up this presentation to showcase me, my writing, and my bonus skills. I also rewrote some of your website copy for sample context and because I found a typo on your homepage.
+I spied your content writer role on SEEK on Saturday and whipped up this presentation to showcase me, my writing, and my bonus skills. I also rewrote some of your website copy because I believe if words can be better they should be&amp;hellip; and because I found a typo on your homepage.
 &lt;br&gt;&lt;br&gt;
 &lt;strong&gt;Welcome to Presentation Lane&lt;/strong&gt;&amp;hellip; because some jobs are worth more than an email.&lt;/p&gt;
 </description>
@@ -26,30 +47,278 @@ I spied your content writer role on SEEK on Saturday and whipped up this present
     
     <item>
       <title>About Me</title>
-      <link>https://concisely.co/about-me</link>
+      <link>https://concisely.co/ps/about-me</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://concisely.co/about-me</guid>
-      <description>&lt;p&gt;&lt;em&gt;Below is my Tinder profile verbatim. I say if you can&amp;rsquo;t use your Tinder profile as a sample of your writing then you&amp;rsquo;re either a weak writer, a liar, or both.&lt;/em&gt;
-&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
+      <guid>https://concisely.co/ps/about-me</guid>
+      <description>&lt;blockquote&gt;
 &lt;p&gt;Hi I&amp;rsquo;m Lane — a halloumi whore and affogato addict who dreams of liberation and llama farming. I’ll love you forever if you’ll just read me aloud DFW’s Infinite Jest… a book I’ve owned forever but never read. If you’re not down for David can we fly to Tokyo, suck down saké, and sing karaoke until sunrise?
 &lt;br&gt;&lt;br&gt;
 Wine and art are the way to my heart when cheese and coffee aren&amp;rsquo;t appropriate. I&amp;rsquo;m real and really on Twitter @THINKLN.
 &lt;br&gt;&lt;br&gt;
 Nb: I don’t understand footy, fishing, or photos with tied-up tigers in Thailand.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Above is my Tinder profile: verbatim. I say if you can&amp;rsquo;t use your Tinder profile as a sample of your writing and an insight to your soul then you&amp;rsquo;re a weak writer, a liar, or both.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Below are my Twitter photos: &lt;a href=&#34;https://twitter.com/THINKLN&#34; target=&#34;_blank&#34;&gt;@THINKLN&lt;/a&gt; is where I share some of my wit, work, and moments that make me “me”.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;row&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-xs-12 col-sm-6&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BhhEQGvCUAAztv7.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BWCBDcJCQAAOtUC.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BXlXqBZCAAIyOHq.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BNa_CuZCUAAvPX_.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BL91PR0CQAAWMO9.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BK2as_sCYAAKFoT.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Bhg7MqmCYAA5G-z.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;../i/pondangel.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BRHXNuuCAAM4E5i.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BRRclj-CYAAd_qn.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BRHXnamCIAADkGv.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BhhFNFaCAAAQVrs.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;../i/aflyingamos.jpg&#34; alt=&#34;&#34;&gt;
+&lt;!--img src=&#34;https://pbs.twimg.com/media/Bi9rtfzCYAEPnmc.jpg:large&#34; alt=&#34;&#34;--&gt;
+&lt;!--img src=&#34;https://pbs.twimg.com/media/Bi9t1yLCIAAuz9T.jpg:large&#34; alt=&#34;&#34;--&gt;
+&lt;img src=&#34;../i/real2.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;../i/3some.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;../i/scarlett.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;col-xs-12 col-sm-6&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BUU6BXyCAAAOTqb.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BTtc-O4CUAAgWRC.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BlkL0avCQAALKGp.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BHo2c_9CcAAMvj2.jpg:large &#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BSgCho6CQAAyNgz.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BZEvY3lCUAA6yoP.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BSgCc2kCMAA1rjC.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BglLiPHCMAAlnNZ.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BRr2IMvCUAA1yUy.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BZEvedaCUAAkVhd.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/BRg6SUFCcAAXGK_.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;../i/courtney.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://pbs.twimg.com/media/Bv3UA_9CYAArW2c.jpg:large&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;../i/pc.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../i/skyhigh.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/me.jpg&#34; alt=&#34;&#34;&gt;
+&lt;hr&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I Write</title>
+      <link>https://concisely.co/ps/i-write</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://concisely.co/ps/i-write</guid>
+      <description>&lt;p&gt;I believe I’m a brilliant writer. And conceptualist.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bonus Skills</title>
+      <link>https://concisely.co/ps/i-more-than-write</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://concisely.co/ps/i-more-than-write</guid>
+      <description>&lt;p&gt;Writing&amp;rsquo;s my true love but not my only skill. I have a bunch of others that afford me great insight into broader brand language puzzles and allow me to see how different pieces compliment each other, and why, sometimes, compromises must be made.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;strong&gt;I Code&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I hand-coded this website using some of the best tools in the business to build and host it&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CloudFlare&lt;/strong&gt;: Power, protection, and encryption&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt;: A static web engine written in Go language&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Github&lt;/strong&gt;: Version control and static website hosting&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bootstrap&lt;/strong&gt;: A responsive, mobile-first website framework&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I Optimise, Analyse, &amp;amp; Socialise&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m also competent with the following tools and technologies&amp;hellip;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;WordPress&lt;/strong&gt;: Advanced WordPress admin, management, hosting, and configuration — including WordPress Multisite&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social Media&lt;/strong&gt;: Twitter, Instagram, Hootsuite&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Graphics&lt;/strong&gt;: Photoshop, Illustrator, Affinity, and more.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analytics&lt;/strong&gt;: Google Analytics, Webmaster Tools, Gaug.es, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Optimisation&lt;/strong&gt;: Optimizely and other A/B testing tools&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website Performance&lt;/strong&gt;: Pagespeed, minification, concatenation, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email Marketing&lt;/strong&gt;: Mailchimp et. al.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I Run</title>
+      <link>https://concisely.co/ps/i-run</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://concisely.co/ps/i-run</guid>
+      <description>&lt;p&gt;Away from work I love to run — running is my thing. Before I ran I rode, competitively. I find physical challenge as rewarding as the creative kind and pushing my mind and body ultimately brings out the best in both. I once rode 3,300km (solo!) in 21 days for a personal challenge (raising money for charity along the way). Currently I practice mindfulness, run regularly, drink rarely, drug never, fast intermittently, and Wim Hoff daily.
+&lt;br&gt;&lt;br&gt;
+&lt;iframe class=&#34;w-full&#34; width=&#34;640&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/VaMjhwFE1Zw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;strong&gt;tl;dw&lt;/strong&gt; — Wimm Hoff is redefining the science of human physiology through the power of his mind. It&amp;rsquo;s almost unbelievable (and I don&amp;rsquo;t use adverbs lightly). Part of Wimm&amp;rsquo;s daily routine is cold water therapy. It&amp;rsquo;s also part of mine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BLURBMSITH</title>
+      <link>https://concisely.co/ps/blurbsmith</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://concisely.co/ps/blurbsmith</guid>
+      <description>&lt;blockquote&gt;A Blurbsmith paints a thousand words in only nine.
+&lt;br&gt;
+&lt;cite&gt;—BLURBSMITH&lt;/cite&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;BLURBSMITH is a moniker of mine born to burn excess creativity because sometimes I&amp;rsquo;m drinking Milo in my kitchen and I spill it; sometimes I&amp;rsquo;m walking back from the store eating my second Cherry Ripe Dark Ganache for the day thinking, &amp;ldquo;This is the best thing ever. Almost&amp;hellip;&amp;rdquo;; other times I just want to take some words I&amp;rsquo;ve already written and make them into more.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/calvin-klein.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/bonds.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/sockheight.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/rayban.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/milo.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/cherryripe.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/bmw1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/bmw2.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/bmw3.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/for-every-pocket.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/for-every-pocket-elements.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/fits-every-pocket-concept.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/fits-every-pocket-elements.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/elements-rain.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/elements-surf.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/elements-snow.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/bskt.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+ &lt;img src=&#34;../i/lance.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+ &lt;img src=&#34;../i/ninaconti.png&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;col-xs-12&#34;&gt;
+&lt;img src=&#34;../i/veryhappyjan.jpg&#34; alt=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CONCISELY</title>
+      <link>https://concisely.co/ps/concisely</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://concisely.co/ps/concisely</guid>
+      <description>&lt;p&gt;#WordsWithin is a playful new series I&amp;rsquo;m sending out to the social medias via &lt;a href=&#34;https://concisely.co&#34; target=&#34;_blank&#34;&gt;CONCISELY&lt;/a&gt;, which is my freelance copywriting service.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;../i/ww-words-within.png&#34; alt=&#34;&#34;&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;../i/words-within-life.png&#34; alt=&#34;&#34;&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;../i/words-within-entitlement.png&#34; alt=&#34;&#34;&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;../i/words-within-deflating.png&#34; alt=&#34;&#34;&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;../i/words-within-ability.png&#34; alt=&#34;&#34;&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;../i/words-within-armstrong.png&#34; alt=&#34;&#34;&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;../i/words-within-facebook-friends.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;../i/words-within-great-britain.png&#34; alt=&#34;&#34;&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;../i/words-within-contentment.png&#34; alt=&#34;&#34;&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;../i/words-within-nraoa.png&#34; alt=&#34;&#34;&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;../i/words-within-adverbs.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rewriting PS</title>
-      <link>https://concisely.co/rewriting-ps</link>
+      <link>https://concisely.co/ps/rewriting-ps</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://concisely.co/rewriting-ps</guid>
-      <description>&lt;p&gt;I believe if words can be better they should be. So the question is, can they? In the case of your website copy, I believe they can.&lt;/p&gt;
+      <guid>https://concisely.co/ps/rewriting-ps</guid>
+      <description>&lt;p&gt;I believe if words can be better they should be. So the question is always, can they? In the case of your website copy, I believe they can.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -86,229 +355,19 @@ Personal connections define business in today’s noisy world. Our purpose is to
     </item>
     
     <item>
-      <title>Random Writings</title>
-      <link>https://concisely.co/random-writings</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://concisely.co/random-writings</guid>
-      <description>&lt;p&gt;Some random writings and concepts of mine.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div class=&#34;row&#34;&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/calvin-klein.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/bonds.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/sockheight.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/rayban.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/milo.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/cherryripe.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/bmw1.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/bmw2.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/bmw3.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/for-every-pocket.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/for-every-pocket-elements.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/fits-every-pocket-concept.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/fits-every-pocket-elements.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/elements-rain.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/elements-surf.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/elements-snow.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/bskt.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
- &lt;img src=&#34;https://concisely.co/i/lance.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
- &lt;img src=&#34;https://concisely.co/i/ninaconti.png&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/veryhappyjan.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bonus Skills</title>
-      <link>https://concisely.co/bonus-skills</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://concisely.co/bonus-skills</guid>
-      <description>&lt;p&gt;Writing&amp;rsquo;s my true love but not my only skill. I have a bunch of others that afford me great insight into broader brand language puzzles and allow me to see how different pieces can compliment each other, and why, sometimes, compromises must be made.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;strong&gt;I Code&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I hand-built this website with some of the best tools in the business&amp;hellip;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;CloudFlare&lt;/strong&gt;: Power, protection, and encryption&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt;: A static web engine written in Go language&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Github&lt;/strong&gt;: Version control and static website hosting&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Bootstrap&lt;/strong&gt;: A responsive, mobile-first website framework&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;NB&lt;/strong&gt;: I have&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I Optimise, Analyse, &amp;amp; Socialise&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Jack of all, master of none, I&amp;rsquo;m competent with the following tools and technologies.
-&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;WordPress&lt;/strong&gt;: Advanced WordPress admin, management, and hosting&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Social Media&lt;/strong&gt;: Twitter, Instagram, Hootsuite&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Graphics&lt;/strong&gt;: Photoshop, Illustrator, Affinity, and more.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Analytics&lt;/strong&gt;: Google Analytics, Webmaster Tools, Gaug.es, etc.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Optimisation&lt;/strong&gt;: Optimizely and other A/B testing tools&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Website Performance&lt;/strong&gt;: Pagespeed, minification, concatenation, etc.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Email Marketing&lt;/strong&gt;: Mailchimp and Aweber&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Me Socially</title>
-      <link>https://concisely.co/socially</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://concisely.co/socially</guid>
-      <description>&lt;p&gt;You can find me on Twitter &lt;a href=&#34;https://twitter.com/THINKLN&#34; target=&#34;_blank&#34;&gt;@THINKLN&lt;/a&gt; where I share my wit, my work, and some moments that make me &amp;ldquo;me&amp;rdquo;. &lt;span class=&#34;&#34;&gt;The photos below are all mine (and hot-linked straight from my Twitter account).&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;row&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;col-xs-12 col-sm-6&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BhhEQGvCUAAztv7.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BWCBDcJCQAAOtUC.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BXlXqBZCAAIyOHq.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BNa_CuZCUAAvPX_.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BL91PR0CQAAWMO9.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BK2as_sCYAAKFoT.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/Bhg7MqmCYAA5G-z.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/pondangel.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BRHXNuuCAAM4E5i.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BRRclj-CYAAd_qn.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BRHXnamCIAADkGv.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BhhFNFaCAAAQVrs.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/aflyingamos.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/Bi9rtfzCYAEPnmc.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/Bi9t1yLCIAAuz9T.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/real2.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/3some.jpg&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-&lt;div class=&#34;col-xs-12 col-sm-6&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BUU6BXyCAAAOTqb.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BTtc-O4CUAAgWRC.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BlkL0avCQAALKGp.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BHo2c_9CcAAMvj2.jpg:large &#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BSgCho6CQAAyNgz.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BZEvY3lCUAA6yoP.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BSgCc2kCMAA1rjC.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BglLiPHCMAAlnNZ.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BRr2IMvCUAA1yUy.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BZEvedaCUAAkVhd.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/BRg6SUFCcAAXGK_.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/courtney.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://pbs.twimg.com/media/Bv3UA_9CYAArW2c.jpg:large&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/pc.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/scarlett.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/skyhigh.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://concisely.co/i/milo-and-me.png&#34; alt=&#34;&#34;&gt;
-&lt;/div&gt;
-&lt;div class=&#34;col-xs-12&#34;&gt;
-&lt;hr&gt;
-&lt;/div&gt;
-&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact Me</title>
-      <link>https://concisely.co/contact-me</link>
+      <link>https://concisely.co/ps/contact-me</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://concisely.co/contact-me</guid>
-      <description>&lt;p&gt;Thanks for reading Mid-Weight Me. I hope to hear from you soon.
+      <guid>https://concisely.co/ps/contact-me</guid>
+      <description>&lt;p&gt;Thanks for reading Presentation Lane. I&amp;rsquo;m brand new to Sydney, available immediately, and live just across the park from you. I&amp;rsquo;m a mature, reliable lover of life and while I don&amp;rsquo;t meet all the criteria for your writer role I excel in areas of it. I&amp;rsquo;m also a fast learner with great growth potential.
+&lt;br&gt;&lt;br&gt;
+Feel free to reach out to me any time.
 &lt;br&gt;&lt;br&gt;
 Always,&lt;br&gt;
 Lane
 &lt;br&gt;&lt;br&gt;
 0488 48 24 24 &lt;span class=&#34;subtle&#34;&gt;&amp;middot;&lt;/span&gt; &lt;a href=&#34;mailto:lane@maily.pro&#34;&gt;lane@maily.pro&lt;/a&gt; &lt;span class=&#34;subtle&#34;&gt;&amp;middot;&lt;/span&gt; &lt;a href=&#34;https://twitter.com/THINKLN&#34; target=&#34;_blank&#34;&gt;@THINKLN&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Index</title>
-      <link>https://concisely.co/index</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://concisely.co/index</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://concisely.co/&#34;&gt;Homepage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://concisely.co/intro/&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://concisely.co/about-me/&#34;&gt;About Lane&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://concisely.co/rewriting-ps/&#34;&gt;Rewriting PS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://concisely.co/random-writings/&#34;&gt;Random Writings&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://concisely.co/bonus-skills/&#34;&gt;Bonus Skills&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://concisely.co/socially/&#34;&gt;Socially&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://concisely.co/contact-me/&#34;&gt;Contact Lane&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     

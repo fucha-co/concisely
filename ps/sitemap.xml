@@ -2,39 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://concisely.co/</loc>
+    <loc>https://concisely.co/ps/</loc>
   </url>
   
   <url>
-    <loc>https://concisely.co/intro</loc>
+    <loc>https://concisely.co/ps/index</loc>
   </url>
   
   <url>
-    <loc>https://concisely.co/about-me</loc>
+    <loc>https://concisely.co/ps/intro</loc>
   </url>
   
   <url>
-    <loc>https://concisely.co/rewriting-ps</loc>
+    <loc>https://concisely.co/ps/about-me</loc>
   </url>
   
   <url>
-    <loc>https://concisely.co/random-writings</loc>
+    <loc>https://concisely.co/ps/i-write</loc>
   </url>
   
   <url>
-    <loc>https://concisely.co/bonus-skills</loc>
+    <loc>https://concisely.co/ps/i-more-than-write</loc>
   </url>
   
   <url>
-    <loc>https://concisely.co/socially</loc>
+    <loc>https://concisely.co/ps/i-run</loc>
   </url>
   
   <url>
-    <loc>https://concisely.co/contact-me</loc>
+    <loc>https://concisely.co/ps/blurbsmith</loc>
   </url>
   
   <url>
-    <loc>https://concisely.co/index</loc>
+    <loc>https://concisely.co/ps/concisely</loc>
+  </url>
+  
+  <url>
+    <loc>https://concisely.co/ps/rewriting-ps</loc>
+  </url>
+  
+  <url>
+    <loc>https://concisely.co/ps/contact-me</loc>
   </url>
   
 </urlset>
