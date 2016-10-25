@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on CONCISELY</title>
+    <link>https://concisely.co/pages/</link>
+    <description>Recent content in Pages on CONCISELY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Oct 2016 00:00:01 +1100</lastBuildDate>
+    <atom:link href="https://concisely.co/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact</title>
+      <link>https://concisely.co/contact</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:01 +1100</pubDate>
+      
+      <guid>https://concisely.co/contact</guid>
+      <description>&lt;p&gt;Phone — &lt;a href=&#34;tel:+61280060049&#34;&gt;02 800 600 49&lt;/a&gt;&lt;br&gt;
+Twitter — &lt;a href=&#34;https://twitter.com/ConciselyCo&#34; target=&#34;_blank&#34;&gt;@ConciselyCo&lt;/a&gt;&lt;br&gt;
+Email — &lt;a href=&#34;mailto:concisely@maily.pro&#34;&gt;concisely@maily.pro&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
