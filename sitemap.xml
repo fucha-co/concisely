@@ -12,12 +12,16 @@
   </url>
   
   <url>
-    <loc>https://concisely.co/contact</loc>
-    <lastmod>2016-10-18T00:00:01+11:00</lastmod>
+    <loc>https://concisely.co/rewrites/keap/</loc>
   </url>
   
   <url>
-    <loc>https://concisely.co/rewrites/keap/</loc>
+    <loc>https://concisely.co/about</loc>
+  </url>
+  
+  <url>
+    <loc>https://concisely.co/contact</loc>
+    <lastmod>2016-10-18T00:00:01+11:00</lastmod>
   </url>
   
 </urlset>
