@@ -3,16 +3,6 @@
   
   <url>
     <loc>https://concisely.co/</loc>
-    <lastmod>2016-10-18T18:37:13+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://concisely.co/rewrites/mobile-muster/</loc>
-    <lastmod>2016-10-18T18:37:13+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://concisely.co/rewrites/keap/</loc>
   </url>
   
   <url>
@@ -20,8 +10,20 @@
   </url>
   
   <url>
+    <loc>https://concisely.co/_rewrites/mobile-muster/</loc>
+  </url>
+  
+  <url>
+    <loc>https://concisely.co/_rewrites/boldinc/</loc>
+  </url>
+  
+  <url>
     <loc>https://concisely.co/contact</loc>
     <lastmod>2016-10-18T00:00:01+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://concisely.co/_rewrites/keap/</loc>
   </url>
   
 </urlset>
