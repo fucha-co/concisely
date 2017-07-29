@@ -38,5 +38,6 @@ Thumbs.db
 
 # More #
 ######################
-config.codekit
+prepros-6.config
+*.pdf
 _*/*
